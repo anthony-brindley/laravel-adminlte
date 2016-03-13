@@ -16,7 +16,9 @@ elixir(function(mix) {
         .scripts([
             '../../../node_modules/jquery/dist/jquery.js',
             '../../../node_modules/bootstrap/dist/js/bootstrap.js',
-            '../../../node_modules/admin-lte/dist/js/app.js'
+            '../../../node_modules/admin-lte/dist/js/app.js',
+
+            'all.js'
         ],
             'public/js/all.js'
         )
@@ -24,7 +26,7 @@ elixir(function(mix) {
         .styles([
             '../../../node_modules/bootstrap/dist/css/bootstrap.css',
             '../../../node_modules/font-awesome/css/font-awesome.css',
-            '../../../node_modules/ionicons/dist/css/ionicons.css',
+            '../../../node_modules/ionicons/css/ionicons.css',
             '../../../node_modules/admin-lte/dist/css/AdminLTE.css',
             '../../../node_modules/admin-lte/dist/css/skins/skin-blue.css',
 
