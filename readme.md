@@ -17,7 +17,7 @@ This is a fresh copy of Laravel 5.2 with small modifications:
 #!bash
 # Get the project
 mkdir myproject && cd myproject
-git clone git clone https://github.com/laragems/laravel-adminlte.git .
+git clone https://github.com/laragems/laravel-adminlte.git .
 
 # Install required packages
 composer install
