@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "admin-lte": "^2.3.2",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0",
+    "gulp": "^3.9.1",
+    "html5shiv": "^3.7.3",
+    "ionicons": "^2.0.1",
+    "jquery": "^2.2.1",
+    "laravel-elixir": "^4.0.0",
+    "respond.js": "^1.4.2"
+  }
+}
