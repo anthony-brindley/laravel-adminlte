@@ -2,13 +2,13 @@
 
 This is a fresh copy of Laravel 5.2 with small modifications:
 
-- Integrated AdminLTE 2.3.2 with the following dependencies:
--- Bootstrap 3.3.6
--- jQuery 2.2.1 
--- Font-Awesome 4.5.0
--- HTML5Shiv 3.7.3 (for older IE versions)
--- Respond.js 1.4.2 (for older IE versions)
--- Ionicons 2.0.1
+- Integrated AdminLTE 2.3.2 and its dependencies
+- Bootstrap 3.3.6
+- jQuery 2.2.1 
+- Font-Awesome 4.5.0
+- HTML5Shiv 3.7.3 (for older IE versions)
+- Respond.js 1.4.2 (for older IE versions)
+- Ionicons 2.0.1
 - All dependencies can be managed via NPM and Laravel Elixir
 
 ## Installation
